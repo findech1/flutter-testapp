@@ -1,6 +1,7 @@
 # namer_app
 
-A new Flutter project.
+A new Flutter project by Ndege Felix .
+Step by step practice on flutter introduction.
 
 ## Getting Started
 
